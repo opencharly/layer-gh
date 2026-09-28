@@ -1,7 +1,5 @@
-version: 2026.232.0520
 gh:
     candy:
-        version: 2026.157.1134
         description: |
             GitHub CLI (gh), git, and git-lfs — the GitHub-from-the-shell toolchain
             gh is the single-responsibility home for the GitHub command-line
